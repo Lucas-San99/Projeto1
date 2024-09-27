@@ -1,33 +1,34 @@
-## Otimizando a rotina dos estagiários: Uma plataforma personalizada para organização e produtividade
+# README
 
-Descrição:
+## Funcionalidades
 
-Diante das diversas demandas e desafios enfrentados por estagiários em suas rotinas, propomos a criação de uma plataforma externa e personalizada para facilitar a organização de estudos e tarefas. Essa ferramenta visa oferecer aos estagiários um ambiente único e intuitivo, centralizando todas as suas atividades em um só lugar e permitindo um melhor gerenciamento do tempo.
+- **Criação de Lembretes Personalizados**: Crie lembretes com diferentes níveis de importância para não perder nenhum prazo.
+- **Blocos de Notas**: Anote tudo o que precisa, desde aulas até ideias para futuros projetos.
+- **Cronogramas de Estudos e Tarefas**: Planeje suas atividades e visualize seu progresso de forma clara.
+- **Acesso Remoto**: Acesse a plataforma a qualquer hora e lugar, pelo celular ou computador.
 
-Funcionalidades:
+## Por que essa plataforma é essencial?
 
-Criação de lembretes personalizados: Crie lembretes com diferentes níveis de importância para não perder nenhum prazo.
-Blocos de notas: Anote tudo o que precisa, desde as aulas até ideias para futuros projetos.
-Cronogramas de estudos e tarefas: Planeje suas atividades e visualize seu progresso de forma clara.
-Acesso remoto: Acesse a plataforma a qualquer hora e lugar, pelo seu celular ou computador.
-Por que essa plataforma é essencial?
+- **Centralização**: Acabe com a confusão de diversas plataformas internas.
+- **Organização**: Priorize suas tarefas e otimize seu tempo.
+- **Produtividade**: Aumente sua eficiência e alcance melhores resultados.
+- **Bem-Estar**: Reduza o estresse e a ansiedade com uma rotina mais organizada.
 
-Centralização: Acabe com a confusão de diversas plataformas internas.
-Organização: Priorize suas tarefas e otimize seu tempo.
-Produtividade: Aumente sua eficiência e alcance melhores resultados.
-Bem-estar: Reduza o estresse e a ansiedade com uma rotina mais organizada.
-Benefícios para a empresa:
+## Benefícios para a Empresa
 
-Eficiência: Estagiários mais organizados e produtivos.
-Satisfação: Aumente a satisfação e retenção de talentos.
-Inovação: Demonstre o compromisso da empresa com a tecnologia e o bem-estar dos colaboradores.
-Próximos passos:
+- **Eficiência**: Estagiários mais organizados e produtivos.
+- **Satisfação**: Aumente a satisfação e retenção de talentos.
+- **Inovação**: Demonstre o compromisso da empresa com a tecnologia e o bem-estar dos colaboradores.
 
-Desenvolvimento: Implementação das funcionalidades da plataforma.
-Testes: Realização de testes para garantir a qualidade e usabilidade.
-Lançamento: Disponibilização da plataforma para os estagiários.
-Contribuições:
+## Próximos Passos
 
-Sinta-se à vontade para contribuir com este projeto! Se você tiver alguma sugestão, dúvida ou quiser ajudar no desenvolvimento, entre em contato.
+1. **Desenvolvimento**: Implementação das funcionalidades da plataforma.
+2. **Testes**: Realização de testes para garantir a qualidade e usabilidade.
+3. **Lançamento**: Disponibilização da plataforma para os estagiários.
 
-Lucas Lima (lslima), Ricardo Silveira (ricardojjs)
+## Contribuições
+
+Sinta-se à vontade para contribuir com este projeto! Se você tiver alguma sugestão, dúvida ou quiser ajudar no desenvolvimento, entre em contato com:
+
+- **Lucas Lima** (lslima)
+- **Ricardo Silveira** (ricardojjs)
